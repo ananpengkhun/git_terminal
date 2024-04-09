@@ -1,26 +1,4 @@
-<<<<<<< HEAD
-Helloaaaasdadasdad
-Asd
-Asd
-As
-Da
-Sd
-Asd
-As
-Da
-Sd
-A
-Sd
-As
-Da
-D
-A
-sd
 
-
-
-mmmmm
-=======
 Helloaaasd
 
 Mmmmm
@@ -31,4 +9,3 @@ Mmmmm
 
 
 mmmm
->>>>>>> newdata
